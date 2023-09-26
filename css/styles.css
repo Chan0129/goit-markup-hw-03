@@ -186,15 +186,13 @@ body {
 
 /* FOOTER */
 .style-footer {
-  background-color: var(--background-color);
+   background-color: var(--background-color);
   width: 1440;
-  height: 312px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   text-align: left;
-  padding-top: 140px;
-  padding-left: 156px;
+  padding: 40px;
 }
 .logo-link-footer {
   font-family: "Raleway", sans-serif;
